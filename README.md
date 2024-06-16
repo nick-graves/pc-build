@@ -16,3 +16,6 @@
 1. [Dell OptiPlex 7040 Tower Desktop Computer Intel Core i7 6th Generation 8GB RAM 512GB SSD](https://discountcomputerdepot.com/special-new-deals/dell-optiplex-7040-tower-desktop-computer-intel-core-i7-6th-generation-8gb-ram-512gb-ssd-wi-fi-windows-10-professional/)
 2. [Dell OptiPlex 7070 Tower Desktop Computer Core i7 9th gen 32GB RAM 1TB SSD](https://discountcomputerdepot.com/windows-11-deals/dell-optiplex-7070-tower-desktop-computer-core-i7-9th-gen-32gb-ram-1tb-ssd-wi-fi-windows-11-home/)
 3. [Dell OptiPlex 7060 Tower Desktop Computer Intel Core i7 8th Generation 16GB RAM 512GB SSD](https://discountcomputerdepot.com/todays-top-deals-save-big/dell-optiplex-7060-tower-desktop-computer-intel-core-i7-8th-generation-16gb-ram-512gb-ssd-wi-fi-windows-11-professional/)
+
+## GPU
+1. https://www.amazon.com/MSI-GeForce-RTX-3060-12G/dp/B08WPRMVWB/ref=mp_s_a_1_1?crid=2REB8XQ5Q23CI&dib=eyJ2IjoiMSJ9.ZfUrwbLQlTjCdY2LUP-Qj_IVtOaTCFni2Hvpzk812F_Gb5TmAC7Iq-ssKbSx6dZPVg_A_EyxBSaxxLfCfIjNlZDi4Un48NME1wD0_XJ11g9xZdV5g9fSfEddJKeT1X1QVvZ0NtaklUSKreS4l5HLtTMs8aRkX1tVjzrItNIdz6LA_M6qmEeSKGKsgZKb7pHXfg2WiTCPume44O9HkqGztg.oXR20TfV_PtInXB571-NxyC-Cb9eu9SZUckoBv3wHeY&dib_tag=se&keywords=nvidia+gtx+3060&qid=1718564736&sprefix=nvidia+gtx+30%2Caps%2C329&sr=8-1
